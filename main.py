@@ -1,3 +1,4 @@
-from funcion import saludarPersona
-
 saludarPersona("Santiago")
+from funcion1 import saludarPersona
+
+saludarPersona("Ana Maria")
